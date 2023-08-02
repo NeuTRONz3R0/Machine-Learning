@@ -23,10 +23,14 @@ Welcome to the comprehensive repository of my **Machine Learning journey!** This
 3. **Regression ML**
    - [Spam Detection using Logistic Regression](https://github.com/NeuTRONz3R0/MachineLearning/blob/cf6c61554f5f4e2de320ede9a035f5969d08b27e/NoteBooks/RegressionML/spam%20detection%20using%20Logistic%20Regression.py)
 
-4. [**Hello_World**](https://github.com/NeuTRONz3R0/Machine-Learning/tree/cf6c61554f5f4e2de320ede9a035f5969d08b27e/NoteBooks/HelloWorldML)
-
+4. **Classification ML**
+    - [Math Problem Classification](https://github.com/NeuTRONz3R0/Machine-Learning/blob/79139ae4d95e352bed3d22797f1dafa9d936365b/NoteBooks/ClassificationML/UjjwalDeep_MathProblem.ipynb)
+      - [Data Math Problem](https://github.com/NeuTRONz3R0/Machine-Learning/tree/8d6a7a18d08b926d900f70c581010f7b7a30ef4c/NoteBooks/ClassificationML/Data_MathProblem)   
 5. **Business ML**
   - yet to finalise and upload... 
+
+
+6. [**Hello_World**](https://github.com/NeuTRONz3R0/Machine-Learning/tree/cf6c61554f5f4e2de320ede9a035f5969d08b27e/NoteBooks/HelloWorldML)
 _____________________________________________________________________________________________________________
 
 Thank you for visiting, and I hope this repository ignites a spark of curiosity and learning within you, just as it has driven my passion for Machine Learning.
